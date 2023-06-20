@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2023-06-20
+### Changes
+
+- Bump UI Version: `v1.0.6`
+  - UPD Sidebar Links (minor) 
+
 ## [1.0.2] 2023-06-20
 ### Changes
 
