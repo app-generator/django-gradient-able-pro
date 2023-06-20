@@ -2,7 +2,7 @@ django
 gunicorn
 python-dotenv
 whitenoise
-git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-admin-gradient-pro
+git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-admin-gradient-pro@v1.0.5#egg=django-admin-gradient-pro
 
 # psycopg2-binary
 # mysqlclient
